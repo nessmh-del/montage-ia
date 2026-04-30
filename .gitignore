@@ -1,0 +1,28 @@
+# Vidéos et projets (trop volumineux pour GitHub)
+Projets/
+*.mp4
+*.MP4
+*.mov
+*.MOV
+*.mxf
+*.avi
+*.mkv
+*.m4v
+*.prproj
+*.xml
+*.jsx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# Whisper cache (modèles lourds)
+~/.cache/whisper/
